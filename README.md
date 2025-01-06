@@ -42,10 +42,14 @@ Scalability:
 Works efficiently with a large number of users by using a highly optimized communication protocol.
 
 
+
 **Before Chat:**
+
 
 ![Screenshot 2025-01-06 111410](https://github.com/user-attachments/assets/aac69a7e-453e-467a-b794-20991d621e13)
 
+
 **After Chat:**
+
 
 ![Screenshot 2025-01-06 111708](https://github.com/user-attachments/assets/e9cee8f3-55fe-4a4c-bd6d-1c9793ac6e77)
